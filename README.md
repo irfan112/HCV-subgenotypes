@@ -1,4 +1,4 @@
-The dataset is collect from https://www.uniprot.org/uniprotkb?query=HCV+genotypes+subtypes
+The dataset is collect from https://www.uniprot.org/uniprotkb?query=HCV+genotypes+subtypes <br />
 Data Formate: 'Entry Number' 'HCV subtype'
 'Q68713_9HEPC subtype 5a', 'Q68714_9HEPC subtype 5a', 'Q68716_9HEPC subtype 2b', 'Q68718_9HEPC subtype 1b', <br />
 'Q68719_9HEPC subtype 1b', 'Q68720_9HEPC subtype 1b', 'Q68721_9HEPC subtype 1b', 'Q68722_9HEPC subtype 5a', <br />
@@ -14,3 +14,7 @@ Data Formate: 'Entry Number' 'HCV subtype'
 'Q81738_9HEPC subtype 2b', 'Q81739_9HEPC subtype 2b', 'Q81740_9HEPC subtype 2b', 'Q81741_9HEPC subtype 2b', <br />
 'Q81742_9HEPC subtype 2b', 'Q81743_9HEPC subtype 2c', 'Q81744_9HEPC subtype 2c', 'Q81745_9HEPC subtype 2c', <br />
 'Q81746_9HEPC subtype 2c'<br />
+
+##
+
+>Hepatitis C virus (HCV) is a major agent of chronic liver infection globally. Hepatitis C virus (HCV) is a leading cause of morbidity and destruction extensive, the role of viral cytopathic outcomes remains unclear. HCV is categories in many Genotypes as differentiating with a sequence alignment of nucleotide (genetic Material (ssRNA(+)) of HCV with host ribosome endoplasmic reticulum of hepatocyte cells. The dataset presents HCV Sub-Genotypes 
