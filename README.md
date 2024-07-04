@@ -1,3 +1,5 @@
+https://pypi.org/project/hcv-genotypes/0.0.1/ <br />
+<br />
 The dataset is collect from https://www.uniprot.org/uniprotkb?query=HCV+genotypes+subtypes <br />
 Data Formate: 'Entry Number' 'HCV subtype'
 'Q68713_9HEPC subtype 5a', 'Q68714_9HEPC subtype 5a', 'Q68716_9HEPC subtype 2b', 'Q68718_9HEPC subtype 1b', <br />
